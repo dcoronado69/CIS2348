@@ -1,4 +1,5 @@
-numbers = input().split()
+#This is 11.18
+ZyBooksnumbers = input().split()
 result = []
 
 for num in numbers:
