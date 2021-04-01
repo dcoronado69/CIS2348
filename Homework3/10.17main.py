@@ -1,4 +1,5 @@
 #This is 10.17 ZyBooks
+#David Coronado: People Soft ID: 1971072
 class ItemToPurchase:
     def __init__(self):
         self.item_name = "none"
