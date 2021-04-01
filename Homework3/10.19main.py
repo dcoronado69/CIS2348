@@ -1,4 +1,4 @@
-# Declare the class ItemToPurchase
+#This is 10.15 ZyBooks
 class ItemToPurchase:
 
     # Parameter Constructor
@@ -82,7 +82,7 @@ class ShoppingCart:
             print('Item not found in cart. Nothing modified.')
         print()
 
-    # implement method to compute total number of items in the cart
+    # implement method to process total number of items in the cart
     def get_num_items_in_cart(self):
         num_items = 0
         for item in self.cart_items:
