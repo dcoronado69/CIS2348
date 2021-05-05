@@ -1,3 +1,4 @@
+# David Coronado People Soft ID:1971072 
 # Split input into 2 parts: name and age
 parts = input().split()
 name = parts[0]
