@@ -1,3 +1,4 @@
+# David Coronado People Soft ID:1971072 
 def selection_sort_descend_trace(A):
     for i in range(len(A)-1):
         ind = i
